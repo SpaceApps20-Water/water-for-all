@@ -44,7 +44,7 @@ Then you can work on your part. When you are happy with the result, the command 
                                                                                      
 ** Note: you will probably be given branches to work on (parallel versions of the master) and then we will merge these branches, it looks like `git commit origin branchname`   
 
-*** Happily, 
+*** Happily, git and github keep track of every changes and every versions. So we can always go back to working ones. Typically, the master version is always runnable. So the hardwork is done on branches, then merged after tests and approval.
                                                                                      
                                                                                   
 
