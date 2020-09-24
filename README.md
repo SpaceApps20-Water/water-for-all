@@ -13,6 +13,19 @@ Resources:  https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
 GIT CHEAT SHEET : https://education.github.com/git-cheat-sheet-education.pdf
 
+You will need to install node.js and npm : https://www.npmjs.com/get-npm
+
+Download visual code studio ( it doesnt really matter which IDE you use to code, but this one is great, easy, dynamic and i can help youwith )
+https://visualstudio.microsoft.com/downloads/
+and then install the extensions:
+            Eslint
+            Prettier
+            Auto Rename Tag
+            Javascript Booster
+                        And extra:
+                                    Bracket pair colorizer
+                                    Colonize
+
 Since we don't learn everything at Bishop's, online tutorial and online courses are great. 
 
 Brad Traversy on youtube is pretty awesome. To learn html, css, javascript, frameworks like react and vue, and much else. He is now in a sabatical and has hired helpers, so dig down in his videos to find him.
