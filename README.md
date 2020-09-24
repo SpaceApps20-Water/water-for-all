@@ -15,6 +15,8 @@ Resources:  https://youtu.be/SWYqp7iY_Tc  - this is an introductory video on git
 
 GIT CHEAT SHEET : https://education.github.com/git-cheat-sheet-education.pdf
 
+First, you will need to create a github account if you do not have one. Then send your github name to Catherine or in our messenger group.
+
 You will need to install node.js and npm : https://www.npmjs.com/get-npm     -afterwards, you will be able to use the command line to generate code, install dependencies, etc.
 
 Download visual code studio ( it doesnt really matter which IDE you use to code, but this one is great, easy, dynamic and i can help youwith )
