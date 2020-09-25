@@ -49,7 +49,7 @@ Then you can work on your part. When you are happy with the result, the command 
 *** Happily, git and github keep track of every changes and every versions. So we can always go back to working ones. Typically, the master version is always runnable. So the hardwork is done on branches, then merged after tests and approval.
                                                                                      
                                                                                   
-
+For our design and website team, you can use (codepen.io). There you can code in html, css and javascript and see the results all in a browser. Perfect to design a button, menus, transitions, etc. 
 
 Since we don't learn everything at Bishop's, online tutorial and online courses are great. 
 
